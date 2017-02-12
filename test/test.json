@@ -1,0 +1,32 @@
+{
+	"result": {
+		"crimeRate": {
+			"Class": "successIcon",
+			"Text": "Low"
+		},
+		"schoolRating": {
+			"Class": "errorIcon",
+			"Text": "B+ for 22280 S 209th Way"
+		},
+		"registeredOffenders": {
+			"Class": "warningIcon",
+			"Text": "1  within 1 mile"
+		},
+		"avgHomePrice": {
+			"Class": "warningIcon",
+			"Text": "$203,000 within 1 mile"
+		},
+		"foreclosures": {
+			"Class": "errorIcon",
+			"Text": "51  within 1 mile"
+		},
+		"naturalHazards": {
+			"Class": "successIcon",
+			"Text": "Earthquake, Hurricane "
+		},
+		"environmentalHazards": {
+			"Class": "",
+			"Text": "9  within 1 mile"
+		}
+	}
+}
