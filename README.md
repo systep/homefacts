@@ -1,6 +1,6 @@
-# HomeFacts [![CircleCI](https://circleci.com/gh/orcaman/homefacts.svg?style=svg)](https://circleci.com/gh/orcaman/homefacts)
+# HomeFacts [![CircleCI](https://circleci.com/gh/orcaman/homefacts.svg?style=svg&circle-token=513c6145094d0cf7331aded74c53ea3a1e131b34)](https://circleci.com/gh/orcaman/homefacts)
 
-The following is an unoffical go client for the HomeFacts API. HomeFacts is a website that provides stats about addresses.
+The following is an unoffical go client for homefacts.com. HomeFacts is a website that provides stats about addresses.
 This unoffical software is not affiliated with homefacts.com in any way. Visit Homefacts [here](http://www.homefacts.com/).
 
 ## Usage Example
