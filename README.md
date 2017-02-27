@@ -1,4 +1,4 @@
-# HomeFacts [![CircleCI](https://circleci.com/gh/orcaman/homefacts.svg?style=svg&circle-token=513c6145094d0cf7331aded74c53ea3a1e131b34)](https://circleci.com/gh/orcaman/homefacts)
+# HomeFacts [![CircleCI](https://circleci.com/gh/skyline-ai/homefacts.svg?style=svg&circle-token=513c6145094d0cf7331aded74c53ea3a1e131b34)](https://circleci.com/gh/skyline-ai/homefacts)
 
 The following is an unoffical go client for homefacts.com. HomeFacts is a website that provides stats about addresses.
 This unoffical software is not affiliated with homefacts.com in any way. Visit Homefacts [here](http://www.homefacts.com/).
@@ -49,7 +49,7 @@ import (
 
 	"encoding/json"
 
-	"github.com/orcaman/homefacts"
+	"github.com/skyline-ai/homefacts"
 )
 
 var (
